@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8>
+<title>Biodata Murid</title>
+<meta name="viewport" content="width=device-width,intial-scale=1">
+<style>
+table {border: 1px solid purple;
+border-collapse: collapse;
+width: 100%;}
+table td, table th {border: 1px solid purple;
+padding: 8px}
+</style>
+</head>
+<body>
+<h2 style="
+color: blue;
+">Biodata Murid</h2>
+<h2>identitas</h2>
+<tr>
+<table>
+<td> Nama Lengkap</td>
+<td> Christalis Aqeella Aulia</td>
+</tr>
+<tr>
+<td> Nama Panggilan</td>
+<td>Chirsta</td>
+</tr>
+<tr>
+<td>NISN</td>
+<td>5678910</td>
+</tr>
+<tr>
+<td>Tanggal Lahir</td>
+<td>8 Desember 2010</td>
+</tr>
+<tr>
+<td>Jenis kelamin</td>
+<td>Perempuan</td>
+</tr>
+<tr>
+<td>Agama</td>
+<td>Islam</td>
+</tr>
+<tr>
+<td>Golongan Darah</td>
+<td>O+</td>
+</tr>
+</table>
+</body>
+</html>
+</tbody>
+</table>
+<hr>
+<h2 style="
+color: aqua;
+">Alamat</h2>
+<address>
+"jl.Tlogobandung RT 01 / RT 11"
+<br>
+"kelurahan Tirtosworo, Giriwoyo"
+<br>
+"Kota Wonogiri, Jawa Tengah 57675"
+<br>
+"Indonesia"
+</address>
+<h3 style=" color: chartreuse;
+">kontak</h3>
+<table border="1" callspadding="5">
+<tbody>
+<tr>
+<td>Telepon</td>
+<td> 
+<a href="+62 823-2939-1824>+62 823-2939-1824</a>
+</td>
+</tr>
+<td>Email</td>
+<td>
+<a herf="mailto:indyaulisasilvianiputri@gmail.com">indyaulisasilvianiputri2gmail.com</a>
+</td>
+</tr>
+</tbody>
+</table>
+</address>
+</hr>
+<h2>Orang Tua / Wali</h2>
+<table border="5" callspadding="5">
+<tbod>
+<tr>
+<td>Nama Ayah</td>
+<td>Indra Mustakim</td>
+<tr>
+<td>Nama Ibu</td>
+<td>Delta Amelian</td>
+</tr>
+<tr>
+<td>Kontak Wali</td>
+<td>
+<table>+62 812-8107-1914</table>
+</td>
+</tr>
+<hr>
+</tbody>
+</table>
+</address>
+<hr>
+<h2>Pendidikan</h2>
+<table border="3" callspadding="5">
+<thead>
+<tr>
+<th>Tahun</th>
+<th>Sekolah</th>
+<th>Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2014-2015</td>
+<td> TK Nurul Huda</td>
+<td>LULUS</td>
+<tr>
+<td>2016-2021</td>
+<td> SD NEGERI 3 TIRTOSWORO</td>
+<td>LULUS</td>
+<tr>
+<td>2022-2025</td>
+<td> SMP NEGERI 1 GIRIWOYO</td>
+<td>LULUS</td>
+</tr>
+</table>
+</tbody>
+<hr>
+<h2>Hobi & Minat</h2>
+<table border="1" callspadding="5">
+<tbody>
+<tr>
+<td>Mendengarkan musik Kpop</td>
+</tr>
+<tr>
+<td>Menari</td>
+<tr>
+</tr>
+<td>Pidato</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Prestasi</h2>
+<table border="1" callspadding="5">
+<tbody>
+<tr>
+<td>Juara 1 Lomba Shooting Film Tingkat Kabupaten (2019)</td>
+</tr>
+</tbody>
+</table>
+<tr>
+<table>
+<td>Juara Harapan 3 Pidato Islam (2020)</td>
+</tr>
+</tbody>
+</table>
+<tr>
+<table>
+<td>Piagam Tsaqifa 3x Tingkat Kabupaten (2022-2025)</td>
+</tr>
+</tbody>
+</table>
+<tr>
+<table>
+<td>Juara 1 Puisi Tingkat Sekolah (2025)</td>
+</tr>
+</tbody>
+</table>
+<tr>
+<table>
+<td>Juara 1 Menari Tingkat Kecamatan (2016)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2> Riwayat kesehatan singkat</h2>
+<table border="1" callspadding="5">
+<tbody>
+<tr>
+<td>Alergi</td>
+<td>Udang</td>
+</tr>
+<tr>
+<td>Vaksinasi</td>
+<td>Lengakap Sesuai Usia</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Kontak Darurat</h2>
+<table border="1" callspadding="5">
+<tbody>
+<tr>
+<td>Nama</td>
+<td>INDRA MUSTAKIM</td>
+</tr>
+<td>Telepon</td>
+<td>+62 812-8107-1914</td>
+</tr>
+<td>Alamat</td>
+<td>Jl.Tlogobandung,Tirtosworo,Giriwoyo</td>
+</td>
+</table>
+</main>
+<footer>
+<p>
+"Terakhir Diperbarui:"
+<time datetime="2025-09-10">9 oktober 2025</time>
+</p>
+</footer>
+</body>
+</html>
+
+
+
+
+
